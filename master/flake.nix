@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-sophia-master.flake = false;
+  inputs.src-sophia-master.ref   = "refs/heads/master";
   inputs.src-sophia-master.owner = "gokr";
-  inputs.src-sophia-master.ref   = "master";
   inputs.src-sophia-master.repo  = "nim-sophia";
   inputs.src-sophia-master.type  = "github";
   
