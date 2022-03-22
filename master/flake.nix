@@ -1,5 +1,5 @@
 {
-  description = ''Nim wrapper of the Sophia key/value store'';
+  description = ''A wrapper for the Sophia embedded key/value store.'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";
@@ -9,7 +9,7 @@
   
   inputs.src-sophia-master.flake = false;
   inputs.src-sophia-master.owner = "gokr";
-  inputs.src-sophia-master.ref   = "refs/heads/master";
+  inputs.src-sophia-master.ref   = "master";
   inputs.src-sophia-master.repo  = "nim-sophia";
   inputs.src-sophia-master.type  = "github";
   
