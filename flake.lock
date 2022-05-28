@@ -51,11 +51,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653690193,
-        "narHash": "sha256-ULIcniIbbOpxUQZAbN+sS81KkgW2Co98AT0IRqN31RA=",
+        "lastModified": 1653696800,
+        "narHash": "sha256-tkPzKg428FlIYABb+M7W7AIxCIRXFmanJkmKXscq7cs=",
         "owner": "nim-nix-pkgs",
         "repo": "sophia",
-        "rev": "356926c18e71848b094d28518c592e5670b66777",
+        "rev": "b1a6c33a3748d522562d3b1c3565d88f5f85bf6c",
         "type": "github"
       },
       "original": {
